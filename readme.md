@@ -1,4 +1,5 @@
 项目地址：https://github.com/vingojw/vue-vueRouter-webpack
+vue-router:http://router.vuejs.org/zh-cn/nested.html
 
 ## Setup
 ``` bash

@@ -314,7 +314,7 @@ module.exports = {
       toast:require('./components/toast.vue')
     },
     created:function(){
-        console.log("created");
+        console.log("app-created");
     },
     //组件事件通信
     //子组件可以通过 this.$dispatch('confirmCallback',this); 来触发父组件events中声明的事件
